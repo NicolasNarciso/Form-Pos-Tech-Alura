@@ -1,6 +1,6 @@
 # Form-Pos-Tech-Alura
 Trabalho em Grupo PosTech Alura
 
-Nicolas Romero <br>
-Lívia Moura  <br>
+Nicolas Romero rm360029 <br>
+Lívia Moura rm360632 <br>
 Helton
